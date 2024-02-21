@@ -1,6 +1,7 @@
 # Learning_Diffusion_Model
-本项目旨在分享Diffusion模型相关技术原理以及实战经验
-Diffusion Model学习交流群
+    本项目旨在分享Diffusion模型相关技术原理以及实战经验
+    Diffusion Model学习交流群
+    ![]([https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif](https://github.com/liguodongiot/llm-action/blob/main/pic/llm-action-v3.png))
 
 # Diffusion Model原理
 
