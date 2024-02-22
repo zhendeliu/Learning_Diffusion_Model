@@ -1,6 +1,8 @@
 # Learning_Diffusion_Model
     本项目旨在收集和分享Diffusion模型相关技术原理以及实战经验
 
+# 相关学习资源
+https://www.zhangzhenhu.com/aigc/index.html
 
 # Diffusion Model原理
 
